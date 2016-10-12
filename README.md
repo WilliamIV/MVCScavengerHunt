@@ -1,0 +1,4 @@
+MVC Scavenger Hunt
+A website I think that could use more MVC would be the Sandals.com homepage.   There page is currently very interactive.  You can click on multpile links to view the different resorts and see their features.
+What I would add would be  a place to have customer views.  Tabs and links for vacationers to go and see what other people enjoyed about each individual resort.  You could also add in what you would like to change to heighten your experience.
+Lastly, I would add a section where vacationers could post about the different excursions they may have taken, or even post questions they may have,  Currently Sandals.com has several facebook pages for each resort where you can go and research and post about things like this, however it is very difficult to navigate throught facebook with all the memes and unnecessary comments.# MVCScavengerHunt
